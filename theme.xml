@@ -1,0 +1,18 @@
+<!--
+theme name:     SuperSweet! September 2022 suited for 16:9
+creator:		Dwayne Hurst (aka Hursty)
+version         1.0
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<theme defaultView="theme">
+   <formatVersion>7</formatVersion>
+
+<feature supported="carousel">
+</feature>
+
+<include subset="Wheel Art" name="Original Style">./original.xml</include>
+<include subset="Wheel Art" name="New Style">./new.xml</include>
+
+ 
+</theme>
