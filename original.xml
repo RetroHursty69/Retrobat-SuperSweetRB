@@ -133,7 +133,21 @@ version         1.0
       </text>	   
    </view>
   
---------------------------------------------------------------------------------------------------------------------   
+--------------------------------------------------------------------------------------------------------
+  <view name="screen">  
+	<text name="clock">
+      <color>d4d4d4</color>
+      <fontSize>0.015</fontSize>
+      <pos>1.95 0.975</pos>
+	  <origin>0 0.5</origin>
+      <size>0.09 0.058</size>
+      <alignment>left</alignment>
+      <fontPath>./_inc/fonts/Shrikhand-Regular.ttf</fontPath>	  
+      <verticalAlignment>center</verticalAlignment>
+    </text>
+  </view>   
+-------------------------------------------------------------------------------------------------------------------- 
+ 
   <view name="gamecarousel">  
  
   	<image name="background15" extra="true">	
